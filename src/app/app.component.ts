@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'learn-somthing';
+  power= 1;
+  factor=5;
 }
